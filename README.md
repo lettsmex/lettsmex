@@ -47,3 +47,10 @@ Feel free to contact me at lele.santiago01@gmail.com
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lettsmex&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lettsmex/lettsmex/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lettsmex/lettsmex/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lettsmex/lettsmex/output/github-contribution-grid-snake.svg">
+</picture>
