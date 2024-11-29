@@ -40,7 +40,7 @@ Feel free to contact me at lele.santiago01@gmail.com
 
 ## 📒 More
 
-/* <a href="https://github.com/lettsmex/github-readme-stats">
+<a href="https://github.com/lettsmex/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=lettsmex" />
 </a>
 <a href="https://github.com/lettsmex/convoychat">
