@@ -39,9 +39,9 @@ Feel free to contact me at lele.santiago01@gmail.com
 
 
 ## 📒 More
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lettsmex&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lettsmex&layout=compact)](https://github.com/lettsmex/github-readme-stats)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lettsmex)](https://github.com/lettsmex/github-readme-stats)
 
 
 <picture align="center">
