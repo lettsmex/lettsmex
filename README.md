@@ -43,7 +43,6 @@ Feel free to contact me at lele.santiago01@gmail.com
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lettsmex&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?lettsmex=UTILIZADOR&layout=compact&theme=dracula)
 
 
 
